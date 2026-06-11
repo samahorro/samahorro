@@ -11,14 +11,8 @@ I'm a cybersecurity practitioner with hands-on experience in operational technol
 **Languages**
 `C++` `Python` 
 
-**OT/ICS Security**
-`EtherNet/IP` `Common Industrial Protocol (CIP)` `EtherCAT` `ADS` `Wireshark` `Ettercap` `Scapy` `pycomm3` `pylogix` `Connected Components Workbench (CCW)`
-
-**Blue Team & Defensive Tools**
+**Defensive Tools**
 `Suricata` `EveBox` `pfSense` `Firewall/ACL Design` `VLAN Segmentation` `Dynamic ARP Inspection` `IDS/IPS Monitoring` `Defense-in-Depth Architecture`
-
-**Cloud Infrastructure**
-`AWS (EC2, Load Balancers, CloudWatch)` `Cloudflare Edge` `Secure VM Migration`
 
 **Security Frameworks & Concepts**
 `Threat Modeling` `Network Segmentation` `Cryptographic Algorithms` `Zero-Trust Principles` `Risk Assessment & Mitigation`
