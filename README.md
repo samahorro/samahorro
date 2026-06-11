@@ -1,6 +1,4 @@
-# Hi, I'm Sam Ahorro 👋
-
-**Cybersecurity | OT/ICS Security | Blue Team Defense | Cloud Infrastructure**
+# Hi, I'm Sam Ahorro!
 
 I'm a cybersecurity practitioner with hands-on experience in operational technology security, blue team defense, and cloud infrastructure hardening. I've conducted authorized security assessments against live PLC systems in industrial control environments, designed defense-in-depth architectures aligned to real-world production constraints, and built secure cloud infrastructure workflows on AWS — all grounded in safety-first, operationally realistic thinking.
 
