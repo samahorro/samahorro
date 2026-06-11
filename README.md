@@ -4,14 +4,14 @@
 
 I'm a cybersecurity practitioner with hands-on experience in operational technology security, blue team defense, and cloud infrastructure hardening. I've conducted authorized security assessments against live PLC systems in industrial control environments, designed defense-in-depth architectures aligned to real-world production constraints, and built secure cloud infrastructure workflows on AWS — all grounded in safety-first, operationally realistic thinking.
 
-📍 Fullerton, California &nbsp;|&nbsp; 🎓 Cal State Fullerton, Center for Cybersecurity &nbsp;|&nbsp; 🏆 CSUF ECS Innovation Showcase — Best Sponsor Project Award
+📍 Fullerton, California &nbsp;|&nbsp; 🎓 Cal State Fullerton, Center for Cybersecurity &nbsp;
 
 ---
 
 ## 🔧 Technical Toolkit
 
 **Languages**
-`C++` `Python` `Bash` `Linux Admin`
+`C++` `Python` 
 
 **OT/ICS Security**
 `EtherNet/IP` `Common Industrial Protocol (CIP)` `EtherCAT` `ADS` `Wireshark` `Ettercap` `Scapy` `pycomm3` `pylogix` `Connected Components Workbench (CCW)`
