@@ -3,8 +3,8 @@
 I'm a cybersecurity and IT systems practitioner focused on security engineering, virtual machines and infrastructure hardening!
 
 📍 Fullerton, California  
-🎓 Computer Science @ Cal State Fullerton  
-🛡️ Cybersecurity | IT Systems | OT/ICS Security | Cloud Security  
+🎓 Computer Science Specialization in Cybersecurity @ Cal State Fullerton  
+🛡️ Cybersecurity | IT Systems | Infrastructure | Network Security  
 
 ---
 
