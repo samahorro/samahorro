@@ -1,6 +1,6 @@
 # Hi, I'm Sam Ahorro!
 
-I'm a cybersecurity and IT systems practitioner focused on security engineering, virtual machines and infrastructure hardening!
+I'm a cybersecurity and IT systems student focused on security engineering, virtual machines and infrastructure hardening!
 
 📍 Fullerton, California  
 🎓 Computer Science Specialization in Cybersecurity @ Cal State Fullerton  
